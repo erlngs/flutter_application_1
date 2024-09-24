@@ -1,3 +1,9 @@
+Nama    : Erlang Sinatrya Putra Yusya
+
+NIM     : 362358302083
+
+Kelas   : TRPL 2B
+
         Praktikum 1
 Membuat projek flutter baru
 
