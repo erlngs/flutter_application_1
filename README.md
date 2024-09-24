@@ -53,3 +53,71 @@ ubah dan tambahkan di file main.dart
 tampilan akan seperti ini setelah di ubah dan di tambahkan widget
 
 ![alt text](ss/image-12.png)
+
+        Praktikum 4
+
+Langkah 1: Cupertino Button dan Loading Bar
+
+buat file loading_cupertino.dart
+
+code : [text](lib/widgedComponen/loading_cupertino.dart)
+
+tambahkan di file main.dart
+
+![alt text](ss/image-14.png)
+
+hasil :
+
+![alt text](ss/image-13.png)
+
+Langkah 2: Floating Action Button (FAB)
+
+buat file fab.dart 
+
+code : [text](lib/widgedComponen/fab.dart)
+
+hasil :
+
+![alt text](ss/image-15.png)
+
+Langkah 3: Scaffold Widget 
+
+buat file scafold_widget.dart
+
+code : [text](lib/widgedComponen/scafold_widget.dart)
+
+Scaffold widget digunakan untuk mengatur tata letak sesuai dengan material design.
+
+![alt text](ss/image-16.png)
+
+Langkah 4: Dialog Widget
+
+
+code : [text](lib/widgedComponen/dialog_widget.dart)
+
+Dialog widget pada flutter memiliki dua jenis dialog yaitu AlertDialog dan SimpleDialog.
+
+![alt text](ss/image-17.png)
+
+Langkah 5: Input dan Selection Widget
+
+code : [text](lib/widgedComponen/input_widget.dart)
+
+Flutter menyediakan widget yang dapat menerima input dari pengguna aplikasi yaitu antara lain Checkbox, Date and Time Pickers, Radio Button, Slider, Switch, TextField.
+
+hasil :
+
+![alt text](ss/image-18.png)
+
+Langkah 6: Date and Time Pickers
+
+code :
+
+hasil :
+
+![alt text](ss/image-19.png)
+
+![alt text](ss/image-20.png)
+
+
+
